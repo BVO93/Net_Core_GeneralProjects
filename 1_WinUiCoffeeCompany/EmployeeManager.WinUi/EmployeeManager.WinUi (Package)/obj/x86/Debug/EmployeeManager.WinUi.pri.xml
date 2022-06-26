@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="EmployeeManager.WinUi" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://EmployeeManager.WinUi/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainWindow.xbf" uri="ms-resource://EmployeeManager.WinUi/Files/MainWindow.xbf">
+				<Candidate type="Path">
+					<Value>MainWindow.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Controls">
+				<NamedResource name="HeaderControl.xbf" uri="ms-resource://EmployeeManager.WinUi/Files/Controls/HeaderControl.xbf">
+					<Candidate type="Path">
+						<Value>Controls\HeaderControl.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<ResourceMapSubtree name="Images">
+					<NamedResource name="logo.png" uri="ms-resource://EmployeeManager.WinUi/Files/Properties/Images/logo.png">
+						<Candidate type="Path">
+							<Value>Properties\Images\logo.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

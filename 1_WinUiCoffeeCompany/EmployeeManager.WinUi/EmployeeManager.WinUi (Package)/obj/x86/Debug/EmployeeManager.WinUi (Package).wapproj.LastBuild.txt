@@ -1,0 +1,34 @@
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\Controls\HeaderControl.xbf
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\Properties\Images\logo.png
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\Images\SplashScreen.scale-200.png
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\Images\LockScreenLogo.scale-200.png
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\Images\Square150x150Logo.scale-200.png
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\Images\Square44x44Logo.scale-200.png
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\Images\StoreLogo.png
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\Images\Wide310x150Logo.scale-200.png
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\resources.pri
+C:\Users\VBJ1BOX\.nuget\packages\microsoft.projectreunion.foundation\0.8.10\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\VBJ1BOX\.nuget\packages\microsoft.projectreunion.winui\0.8.10\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\VBJ1BOX\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.24\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\VBJ1BOX\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.24\lib\WinRT.Runtime.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.pdb
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.pdb
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUi.deps.json
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUi.runtimeconfig.dev.json
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x86\Debug\net5.0-windows10.0.19041.0\Controls\HeaderControl.xbf
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi\Properties\Images\logo.png
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe
+C:\Users\VBJ1BOX\.nuget\packages\microsoft.projectreunion.foundation\0.8.10\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUi.runtimeconfig.json
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUi.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUi.pdb

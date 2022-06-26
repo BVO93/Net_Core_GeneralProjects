@@ -1,0 +1,15 @@
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.deps.json
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.dll
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\ref\EmployeeManager.DataAccess.dll
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.pdb
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.AssemblyInfo.cs
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csproj.CopyComplete
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.dll
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\ref\EmployeeManager.DataAccess.dll
+C:\Users\VBJ1BOX\Desktop\fundamentals-building-dot-net-desktop-applications\05\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.pdb

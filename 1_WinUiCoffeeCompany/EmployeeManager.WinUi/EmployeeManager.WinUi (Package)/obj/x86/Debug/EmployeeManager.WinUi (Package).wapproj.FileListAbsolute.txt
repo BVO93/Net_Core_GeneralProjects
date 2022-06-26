@@ -1,0 +1,48 @@
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\App.xbf
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\MainWindow.xbf
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\Microsoft.WinUI.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\Microsoft.Windows.SDK.NET.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\WinRT.Runtime.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.deps.json
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.runtimeconfig.dev.json
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\App.xbf
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\MainWindow.xbf
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.exe
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.runtimeconfig.json
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.pdb
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\resources.pri
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\AppxManifest.xml
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi (Package).build.appxrecipe
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\EmployeeManager.WinUi (Package).wapproj.AssemblyReference.cache
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\EmployeeManager.WinUi (Package).wapproj.CoreCompileInputs.cache
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\EmployeeManager.WinUi.pri.xml
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\priconfig.xml
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\priconfig.xml.intermediate
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\filtered.layout.resfiles
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\excluded.layout.resfiles
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\resources.resfiles
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\resources.resfiles.intermediate
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\pri.resfiles
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\pri.resfiles.intermediate
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\qualifiers.txt
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\ProjectArchitectures.txt
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\EmployeeManager.WinUi (Package).wapproj.LastBuild.txt
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\Properties\Images\logo.png
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\Properties\Images\logo.png
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\Controls\HeaderControl.xbf
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.Common.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.DataAccess.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.ViewModel.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.Common.pdb
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.DataAccess.pdb
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.ViewModel.pdb
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\Controls\HeaderControl.xbf

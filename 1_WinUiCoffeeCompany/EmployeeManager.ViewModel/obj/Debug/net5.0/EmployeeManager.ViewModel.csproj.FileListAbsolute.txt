@@ -1,0 +1,17 @@
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.deps.json
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\bin\Debug\net5.0\ref\EmployeeManager.ViewModel.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.pdb
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csproj.AssemblyReference.cache
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.AssemblyInfoInputs.cache
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.AssemblyInfo.cs
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csproj.CoreCompileInputs.cache
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csproj.CopyComplete
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\obj\Debug\net5.0\ref\EmployeeManager.ViewModel.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.pdb
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.DataAccess.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.DataAccess.pdb

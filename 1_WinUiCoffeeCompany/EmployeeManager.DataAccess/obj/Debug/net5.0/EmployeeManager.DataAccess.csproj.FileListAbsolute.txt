@@ -1,0 +1,15 @@
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.deps.json
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\bin\Debug\net5.0\ref\EmployeeManager.DataAccess.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.pdb
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csproj.AssemblyReference.cache
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.AssemblyInfoInputs.cache
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.AssemblyInfo.cs
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csproj.CopyComplete
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\obj\Debug\net5.0\ref\EmployeeManager.DataAccess.dll
+C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.pdb

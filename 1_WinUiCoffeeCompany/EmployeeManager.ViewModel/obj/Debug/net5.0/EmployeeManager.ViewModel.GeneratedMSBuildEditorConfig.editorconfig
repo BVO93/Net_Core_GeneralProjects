@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = EmployeeManager.ViewModel
+build_property.ProjectDir = C:\1_Programming\1_C#\1_ExampleResources\3_NetCoreGeneralProjects\1_WinUiCoffeeCompany\EmployeeManager.ViewModel\

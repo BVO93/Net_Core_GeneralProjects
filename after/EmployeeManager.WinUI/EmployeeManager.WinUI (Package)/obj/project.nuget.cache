@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r093ZKa8I8VOY62lqdssHBYQVWvnL+XB3UbeXaOPTDZE0r7YzfOLSd/1+4c7KoGp1FLDMDormblk0+FICGOwSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VBJ1BOX\\Desktop\\fundamentals-building-dot-net-desktop-applications\\05\\demos\\after\\EmployeeManager.WinUI\\EmployeeManager.WinUI (Package)\\EmployeeManager.WinUI (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.projectreunion\\0.5.0\\microsoft.projectreunion.0.5.0.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.projectreunion.dwrite\\0.5.0\\microsoft.projectreunion.dwrite.0.5.0.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.projectreunion.foundation\\0.5.0\\microsoft.projectreunion.foundation.0.5.0.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.projectreunion.winui\\0.5.0\\microsoft.projectreunion.winui.0.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

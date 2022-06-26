@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "B022f/5B32tjMxI2EjWZYbeNZzS6dyBgStjkXY6elD+qDZYCiTyHJRmqAZIXXeppPfCMaubaJ7pBroApQbHDkQ==",
+  "success": true,
+  "projectFilePath": "C:\\1_Programming\\1_C#\\1_ExampleResources\\3_NetCoreGeneralProjects\\1_WinUiCoffeeCompany\\EmployeeManager.WinUi\\EmployeeManager.WinUi\\EmployeeManager.WinUi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.projectreunion\\0.8.10\\microsoft.projectreunion.0.8.10.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.projectreunion.dwrite\\0.8.10\\microsoft.projectreunion.dwrite.0.8.10.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.projectreunion.foundation\\0.8.10\\microsoft.projectreunion.foundation.0.8.10.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.projectreunion.interactiveexperiences\\0.8.10\\microsoft.projectreunion.interactiveexperiences.0.8.10.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.projectreunion.winui\\0.8.10\\microsoft.projectreunion.winui.0.8.10.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.16\\microsoft.netcore.app.runtime.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.16\\microsoft.aspnetcore.app.runtime.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\5.0.16\\microsoft.netcore.app.runtime.win-arm64.5.0.16.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.16\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.24\\microsoft.windows.sdk.net.ref.10.0.19041.24.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\5.0.16\\microsoft.aspnetcore.app.runtime.win-arm64.5.0.16.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.16\\microsoft.netcore.app.runtime.win-x86.5.0.16.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\5.0.16\\microsoft.windowsdesktop.app.runtime.win-arm64.5.0.16.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.16\\microsoft.aspnetcore.app.runtime.win-x86.5.0.16.nupkg.sha512",
+    "C:\\Users\\VBJ1BOX\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.16\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
